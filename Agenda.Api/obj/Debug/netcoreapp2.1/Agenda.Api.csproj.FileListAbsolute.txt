@@ -1,0 +1,14 @@
+D:\apps\Agenda\Agenda.Api\bin\Debug\netcoreapp2.1\Agenda.Api.deps.json
+D:\apps\Agenda\Agenda.Api\bin\Debug\netcoreapp2.1\Agenda.Api.runtimeconfig.json
+D:\apps\Agenda\Agenda.Api\bin\Debug\netcoreapp2.1\Agenda.Api.runtimeconfig.dev.json
+D:\apps\Agenda\Agenda.Api\bin\Debug\netcoreapp2.1\Agenda.Api.dll
+D:\apps\Agenda\Agenda.Api\bin\Debug\netcoreapp2.1\Agenda.Api.pdb
+D:\apps\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.csprojAssemblyReference.cache
+D:\apps\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.csproj.CoreCompileInputs.cache
+D:\apps\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.RazorAssemblyInfo.cache
+D:\apps\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.RazorAssemblyInfo.cs
+D:\apps\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.AssemblyInfoInputs.cache
+D:\apps\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.AssemblyInfo.cs
+D:\apps\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.RazorTargetAssemblyInfo.cache
+D:\apps\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.dll
+D:\apps\Agenda\Agenda.Api\obj\Debug\netcoreapp2.1\Agenda.Api.pdb

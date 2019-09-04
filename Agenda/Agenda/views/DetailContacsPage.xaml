@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Agenda.views.DetailContacsPage"
+             Title="Detalle De Contacto">
+    
+    <ContentPage.Content>
+             <Grid x:Name="gridDatos" BackgroundColor="White" RowSpacing="10" Padding="20">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5*"/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            
+            <Image Source="{Binding imageUrl}" Grid.ColumnSpan="2" Grid.Row="0"/>
+
+            <Label Text="{Binding FullName}}" Grid.ColumnSpan="2" Grid.Row="1" HorizontalOptions="Center" FontAttributes="Bold"/>
+            
+            <Label Text="Celular: " Grid.Column="0" Grid.Row="2"/>
+
+            <Label Text="{Binding PhoneNumber}" Grid.Column="1" Grid.Row="2"/>
+
+            <Label Text="Email:" Grid.Column="0" Grid.Row="3"/>
+
+            <Label Text="{Binding Email}" Grid.Column="1" Grid.Row="3"/>
+
+            <Label Text="Linkedin: " Grid.Column="0" Grid.Row="4"/>
+
+            <Label Text="{Binding LinkedIn}" Grid.Column="1" Grid.Row="4"/>
+
+            <Label Text="SkypeID:" Grid.Column="0" Grid.Row="5"/>
+
+            <Label Text="{Binding SkypeId}" Grid.Column="1" Grid.Row="5"/>
+        </Grid>
+
+       
+    </ContentPage.Content>
+    
+</ContentPage>

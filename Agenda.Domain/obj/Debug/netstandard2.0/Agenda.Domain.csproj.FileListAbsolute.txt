@@ -1,0 +1,8 @@
+D:\apps\Agenda\Agenda.Domain\bin\Debug\netstandard2.0\Agenda.Domain.deps.json
+D:\apps\Agenda\Agenda.Domain\bin\Debug\netstandard2.0\Agenda.Domain.dll
+D:\apps\Agenda\Agenda.Domain\bin\Debug\netstandard2.0\Agenda.Domain.pdb
+D:\apps\Agenda\Agenda.Domain\obj\Debug\netstandard2.0\Agenda.Domain.csproj.CoreCompileInputs.cache
+D:\apps\Agenda\Agenda.Domain\obj\Debug\netstandard2.0\Agenda.Domain.AssemblyInfoInputs.cache
+D:\apps\Agenda\Agenda.Domain\obj\Debug\netstandard2.0\Agenda.Domain.AssemblyInfo.cs
+D:\apps\Agenda\Agenda.Domain\obj\Debug\netstandard2.0\Agenda.Domain.dll
+D:\apps\Agenda\Agenda.Domain\obj\Debug\netstandard2.0\Agenda.Domain.pdb
